@@ -1,0 +1,23 @@
+body {
+    background-color: darkgreen;
+}
+
+p {
+    color: aqua;
+}
+
+#segundo {
+    background-color: lightblue;
+    color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 50px;
+}
+
+.diferente {
+    background-color: rgb(173, 202, 230);
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(194, 212, 88);
+    border-radius:20px;
+    font-size: 40px;
+}
